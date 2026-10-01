@@ -9,8 +9,8 @@ class ArticlesPreviews {
         this.container = container;
         this.hiddenArticles = this.container.querySelectorAll('[hidden]');
         this.showButton = this.container.querySelector('.js-all-insights');
-        this.showArticle = this.showArticle.bind(this);
-        this.showButton?.addEventListener('click', this.showArticle)
+        this.showArticles = this.showArticles.bind(this);
+        this.showButton?.addEventListener('click', this.showArticles)
 
     }
 

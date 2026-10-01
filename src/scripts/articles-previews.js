@@ -14,11 +14,11 @@ class ArticlesPreviews {
 
     }
 
-    showArticle() {
+    showArticles() {
         if (!this.hiddenArticles.length) return;
         const first = this.hiddenArticles[0].querySelector('a');
         this.hiddenArticles.forEach((article) => article.hidden = false);
-        first.focus();
+        if (first) first.focus();
         this.showButton.hidden = true;
 
     }

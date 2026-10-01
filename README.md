@@ -23,8 +23,6 @@ La solución debe usar marcado semántico, BEM y ser accesible. Los datos están
 - Implementa el control **See All Insights** para revelar las tarjetas ocultas.
 - Mantén una experiencia accesible.
 
-Comenta las decisiones relevantes y los pendientes si los hubiera.
-
 ## Tiempo sugerido
 
 75 minutos.
@@ -45,8 +43,8 @@ pnpm build
 ## Entrega
 
 1. Crea una rama con el formato `feat/<nombre>`.
-2. Realiza al menos un commit convencional.
-3. Desarrolla el ejercicio.
+2. Desarrolla el ejercicio.
+3. Realiza al menos un commit convencional.
 4. Genera un PR con la solución.
 
 Consulta los [criterios de evaluación](docs/criterios-de-evaluacion.md) antes de empezar.

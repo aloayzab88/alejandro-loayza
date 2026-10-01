@@ -45,8 +45,8 @@ pnpm build
 ## Entrega
 
 1. Crea una rama con el formato `feat/<nombre>`.
-2. Desarrolla el ejercicio.
-3. Realiza al menos un commit convencional.
+2. Realiza al menos un commit convencional.
+3. Desarrolla el ejercicio.
 4. Genera un PR con la solución.
 
 Consulta los [criterios de evaluación](docs/criterios-de-evaluacion.md) antes de empezar.

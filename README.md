@@ -23,8 +23,6 @@ La solución debe usar marcado semántico, BEM y ser accesible. Los datos están
 - Implementa el control **See All Insights** para revelar las tarjetas ocultas.
 - Mantén una experiencia accesible.
 
-Comenta las decisiones relevantes y los pendientes si los hubiera.
-
 ## Tiempo sugerido
 
 75 minutos.
